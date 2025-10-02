@@ -45,7 +45,6 @@ The repository contains the following:
 📂 Data → Datasets used (Cleaned)
 📂 Notebooks → Exploratory analysis, funnel metrics, visualizations.
 📂 reports → Visualizations 
-📂 Final Report (PDF) → Consolidated findings, UX recommendations, and strategic insights.
 
 ## 📊 Key Insights (from full project)
 -Bounce Rate: Product pages (especially mobile) had the highest bounce rates.
