@@ -41,10 +41,10 @@ Power BI:	Interactive funnel & segmentation dashboards
 
 ## Deliverables in Repository
 The repository contains the following:
-📂 Data Cleaning (Excel/Power Query Files) → Processed dataset ready for analysis.
-📂 SQL Scripts → Queries for user segmentation, bounce rate analysis, top landing pages.
-📂 Python Notebooks → Exploratory analysis, funnel metrics, visualizations.
-📂 Power BI Dashboard → Interactive funnel visualization and user behavior analysis.
+📂 Dashboards → Power BI Dashboard
+📂 Data → Datasets used (Cleaned)
+📂 Notebooks → Exploratory analysis, funnel metrics, visualizations.
+📂 reports → Visualizations 
 📂 Final Report (PDF) → Consolidated findings, UX recommendations, and strategic insights.
 
 ## 📊 Key Insights (from full project)
